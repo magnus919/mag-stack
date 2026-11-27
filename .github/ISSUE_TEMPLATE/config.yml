@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Talk with Magnus in Discussions
+    url: https://github.com/magnus919/mag-stack/discussions
+    about: Questions and conversation from people are welcome. Issues are for Magnus's work tracking. No feature requests, please.
