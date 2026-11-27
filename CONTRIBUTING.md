@@ -1,0 +1,1 @@
+Sorry, I’m not accepting contributions to Mag-Stack. It’s a personal project that reflects how I lead. You’re welcome to fork it and make it your own, and to ask questions in Discussions. I’m not taking feature requests.
