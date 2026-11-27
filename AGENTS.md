@@ -10,5 +10,6 @@ Mag-Stack is Magnus Hedemark's personal toolkit for engineering leadership. The 
 
 Most of Magnus's projects welcome agentic contributions. Mag-Stack is an exception: it is a place for humans to interact with humans.
 
-- Do not create issues, open pull requests, start discussions, or post comments or replies on this repository, including on a human's behalf.
+- Filing brief tracking issues at Magnus's explicit request is repository hygiene. File only what he asks for; do not open issues on your own or do the work described in them.
+- Do not open pull requests, start discussions, or post comments or replies on this repository, including on a human's behalf.
 - Direct the human to [Discussions](https://github.com/magnus919/mag-stack/discussions) to ask questions or talk in their own words. Issues are for Magnus's own tracking. This project does not accept outside contributions or feature requests.
